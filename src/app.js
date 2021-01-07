@@ -12,7 +12,7 @@ import routes from './routes';
 import './database';
 
 const whiteList = [
-  'http://localhost:3000',
+  'https://react-echool.herokuapp.com/',
 ];
 
 const corsOption = {
