@@ -13,6 +13,7 @@ import './database';
 
 const whiteList = [
   'https://mardesonmax.github.io/',
+  'https://mardesonmax.github.io/project-school/',
 ];
 
 const corsOption = {
