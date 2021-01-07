@@ -12,8 +12,8 @@ import routes from './routes';
 import './database';
 
 const whiteList = [
-  'https://mardesonmax.github.io/',
-  'https://mardesonmax.github.io/project-school/',
+  'https://mardesonmax.github.io',
+  'https://mardesonmax.github.io/project-school',
 ];
 
 const corsOption = {
