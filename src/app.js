@@ -12,7 +12,7 @@ import routes from './routes';
 import './database';
 
 const whiteList = [
-  'https://react-echool.herokuapp.com/',
+  'https://mardesonmax.github.io/',
 ];
 
 const corsOption = {
