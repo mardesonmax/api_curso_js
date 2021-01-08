@@ -12,8 +12,7 @@ var _routes = require('./routes'); var _routes2 = _interopRequireDefault(_routes
 require('./database');
 
 const whiteList = [
-  'https://mardesonmax.github.io',
-  'https://mardesonmax.github.io/project-school',
+  'http://project.school.s3-website-sa-east-1.amazonaws.com',
 ];
 
 const corsOption = {
